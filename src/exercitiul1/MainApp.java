@@ -7,7 +7,7 @@ public class MainApp {
         Scanner scanner=new Scanner(System.in);
         System.out.print("a=");
         int a= scanner.nextInt();
-        System.out.println("Ati introdus valoarea"+a);
+        System.out.println("Ati introdus valoarea lui"+a);
         scanner.close();
     }
 
